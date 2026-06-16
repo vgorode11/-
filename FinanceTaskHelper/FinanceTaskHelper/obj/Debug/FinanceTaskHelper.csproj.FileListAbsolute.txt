@@ -1,0 +1,11 @@
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\bin\Debug\FinanceTaskHelper.exe.config
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\bin\Debug\FinanceTaskHelper.exe
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\bin\Debug\FinanceTaskHelper.pdb
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.csproj.AssemblyReference.cache
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.Form1.resources
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.Properties.Resources.resources
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.csproj.GenerateResource.cache
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.csproj.CoreCompileInputs.cache
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.exe
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.pdb
+C:\Users\zita-\OneDrive\Рабочий стол\курсач\FinanceTaskHelper\FinanceTaskHelper\obj\Debug\FinanceTaskHelper.exe.config
